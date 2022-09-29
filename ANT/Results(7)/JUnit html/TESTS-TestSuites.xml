@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite failures="1" hostname="ibm-adhinavjha" id="0" name="ProvarDX_TestProject/tests" package="" skipped="0" tests="1" time="2.032" timestamp="Tue Sep 27 02:43:15 IST 2022">
+	    <properties>
+		      <property name="excludeCallableTestCases" value="true" />
+
+		      <property name="testEnvironment" value="" />
+
+		      <property name="pluginOutputLevel" value="WARNING" />
+
+		      <property name="projectPath" value="C:/Users/abhinav.jha/Documents/ProvarDX_WorkSpace/ProvarDX_TestProject" />
+
+		      <property name="salesforceMetadataCache" value="Reuse" />
+
+		      <property name="resultsPathDisposition" value="Increment" />
+
+		      <property name="testOutputLevel" value="INFO" />
+
+		      <property name="webBrowserType" value="Chrome" />
+
+		      <property name="resultsPath" value="../ANT/Results" />
+
+		      <property name="webBrowserConfiguration" value="Full Screen" />
+
+		      <property name="projectCachePath" value="C:\Users\abhinav.jha\Documents\ProvarDX_WorkSpace\ProvarDX_TestProject\ANT\..\..\.provarCaches" />
+
+	    </properties>
+
+	    <testcase classname="tests/Test Case 1.testcase" name="Test Case 1.testcase" time="2.032">
+		      <failure message="Execution failed"><![CDATA[Connection exception while opening Partner connection. Connection name: System_Admin, environment: <default>, authEndpoint: https://login.salesforce.com/services/Soap/u/55.0, userName: abhibeta@provartesting.com, password: [empty], securityToken: [empty]]]></failure>
+
+	    </testcase>
+
+  </testsuite>
+</testsuites>

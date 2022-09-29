@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProvarDX_TestProject/tests" tests="1" failures="0" skipped="0" hostname="ibm-adhinavjha" time="192.413" timestamp="Wed Sep 14 00:10:31 IST 2022">
+	<properties>
+		<property name="testEnvironment" value=""/>
+		<property name="pluginOutputLevel" value="WARNING"/>
+		<property name="projectPath" value="C:/Users/abhinav.jha/Documents/ProvarDX_WorkSpace/ProvarDX_TestProject"/>
+		<property name="salesforceMetadataCache" value="../.provarCaches"/>
+		<property name="resultsPathDisposition" value="Increment"/>
+		<property name="testOutputLevel" value="BASIC"/>
+		<property name="webBrowserType" value="Chrome"/>
+		<property name="resultsPath" value="C:/Users/abhinav.jha/Documents/ProvarDX_WorkSpace/ProvarDX_TestProject/ANT/Results"/>
+		<property name="webBrowserConfiguration" value="Full Screen"/>
+		<property name="projectCachePath" value="../.provarCaches"/>
+	</properties>
+	<testcase classname="tests/C:\Users\abhinav.jha\Documents\ProvarDX_WorkSpace\ProvarDX_TestProject" name="Test Case 1.testcase" time="188.486">
+	</testcase>
+</testsuite>
